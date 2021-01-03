@@ -1,4 +1,4 @@
-# aspCore3.1-beginner
+# Asp .NET Core 3.1 - beginner
 To experiment with basic ASP.NET Core. 
 
 ---
